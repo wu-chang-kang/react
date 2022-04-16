@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "history": "^5.0.0",
+    "path-to-regexp": "^6.2.0",
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.55"
+  }
+}
