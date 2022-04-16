@@ -1,0 +1,8 @@
+{
+  "name": "toy-react",
+  "version": "1.0.0",
+  "description": "记录 react 相关生态源码学习",
+  "repository": "https://github.com/wu-chang-kang/react",
+  "author": "wu-chang-kang <1147552381@qq.com>",
+  "license": "MIT"
+}
